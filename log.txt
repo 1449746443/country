@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 三国争霸!!!!!! guanyu modified!
+=======
+三国争霸!!!!!!  liubei modified!
+>>>>>>> a0b389f5aba9c647dd842d612a93c3fe62f5c6ba
 不能没有关羽!
